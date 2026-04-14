@@ -1,0 +1,12 @@
+{
+  "name": "skill-retrospective",
+  "version": "1.0.0",
+  "description": "Four-phase skill retrospective loop. Collects feedback at session end, groups patterns, prioritizes fixes, and tracks resolutions across sessions.",
+  "author": {
+    "name": "ydmitry"
+  },
+  "homepage": "https://github.com/ydmitry/skill-retrospective",
+  "repository": "https://github.com/ydmitry/skill-retrospective",
+  "license": "MIT",
+  "keywords": ["retrospective", "feedback", "skill-improvement", "logbook"]
+}

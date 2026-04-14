@@ -1,0 +1,18 @@
+{
+  "name": "skill-retrospective",
+  "owner": {
+    "name": "ydmitry"
+  },
+  "metadata": {
+    "description": "Four-phase skill retrospective loop. Collects feedback at session end, groups patterns, prioritizes fixes, and tracks resolutions across sessions.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "skill-retrospective",
+      "description": "Four-phase skill retrospective loop. Collects feedback at session end, groups patterns, prioritizes fixes, and tracks resolutions across sessions.",
+      "source": "./",
+      "strict": false
+    }
+  ]
+}
